@@ -1,0 +1,35 @@
+name: Métaontologie - Metaontology
+description: >
+    Notes sur la métaontologie - Notes on metaontology
+about: >
+    
+
+
+url: "http://marviro.github.io/metaontologyr"
+baseurl: "/" 
+markdown: kramdown
+highlighter: rouge
+
+gems: [jekyll-paginate,  jekyll-gist]
+
+paginate: 3
+
+logo:             logo.png
+disqus_shortname:
+
+owner:
+  name:           Marcello Vitali-Rosati
+  avatar:         ""
+  email:          "vitalirosati@gmail.com"
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: @monterosato
+  github:
+  stackexchange:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
