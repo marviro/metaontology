@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Vinit Kumar
+title: About this website
 ---
 
 {{site.about}}
