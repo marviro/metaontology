@@ -6,7 +6,7 @@ about: >
 
 
 url: "http://marviro.github.io/metaontology"
-baseurl: "/" 
+baseurl: "/metaontology" 
 markdown: kramdown
 highlighter: rouge
 
