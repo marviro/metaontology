@@ -3,7 +3,7 @@ layout: "post"
 permalink: "/principes.html"
 uuid: ""
 guid: ""
-date: ""
+date: "2017-05-28"
 updated: ""
 description: 
 blogger:
