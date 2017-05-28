@@ -1,3 +1,22 @@
+title: "Principes"
+layout: "post"
+permalink: "/principes.html"
+uuid: ""
+guid: ""
+date: ""
+updated: ""
+description: 
+blogger:
+    siteid: ""
+    postid: ""
+    comments: "0"
+categories: 
+author: 
+    name: "Marcello Vitali-Rosati"
+    url: ""
+    image: ""
+---
+
 # Métaontologie - principes
 
 1. L'Être est originairement médié (réfléchi) (plié sur lui-même)
