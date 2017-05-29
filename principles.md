@@ -42,12 +42,4 @@ Relations entre technique et nature, et plus en général entre médiation et im
 Réalisme va idéalisme à l'époque du numérique.
 La solution que je propose est la metaontologie. Valeur opérationnelle de la mo.
 
-## Titres possibles
-Metaontology. For a Philosophy of mediation
-## Notes pertinentes
-[[litteratureRealite]]
-[[realismeNominalisme]]
-[[metaontologieLectures]]
-[[TransmediationsConference]]
-[[nicmar/Slack_metaontologie-20170203]]
-[[metaontologieSensPublic]]
+
