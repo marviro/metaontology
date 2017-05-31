@@ -4,8 +4,8 @@ The goal of this website is to structure the work I have been making on metaonto
 
 Here is a table of contents:
 
-- [Definitions](principles.md)
-- [Principles](definitions.md)
+- [Definitions](definitions.md)
+- [Principles](principles.md)
 
 
 
