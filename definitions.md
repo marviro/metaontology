@@ -70,4 +70,4 @@ le rapport entre essentialisme et anti-essentialisme et la question de la défin
 
 *Exemple* : l'individu ou la société ou les organes ou les cellules ou les atomes ou les especès... discrétisation d'une continuité de médiations dans les être-multiples
 
-## Ontologie relationnelle et métaontologie: regarder le nombre de dimension syntopiques: le nombre de liens
+<!-- ## Ontologie relationnelle et métaontologie: regarder le nombre de dimension syntopiques: le nombre de liens -->
