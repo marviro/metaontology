@@ -1,6 +1,5 @@
 # Metaontology - Métaontologie
 
-- [Home](index.html)
-- Index
-  - [Definitions](definitions.md)
-  - [Principles](principles.md)
+[Home](index.html)
+[Definitions](definitions.md)
+[Principles](principles.md)
