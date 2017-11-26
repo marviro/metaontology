@@ -1,7 +1,12 @@
 # Métaontologie - principes
 
+0. Le monde est l'ensemble des conjonctures qui sont
+l'ensemble des plans de réflexion
+le monde est tous ce qui est
+cf [Être](etre.md)
+
 1. L'Être est originairement médié (réfléchi) (plié sur lui-même)
-  1. L'Être est donc multiple. Il 'y a pas l'Être mais les être-multiples.
+  1. L'Être est donc multiple. Il 'y a pas l'Être mais les être-multiples. cf [Unité](unite.md)
   2. La médiation ne se fait pas au moment de l'appéhension de l'Être (par la pensée ou le langage, par exemple), mais au niveau de l'Être lui-même.
     1. La pensée et le langage ne sont pas les produits de l'activité humaine. Les hommes ne sont que des corps attraversés par des plans de réflexions qui sont les produits des réflexions (médiations) des êtres-multiples dans leurs médiations originaires
     2. Le pliage de l'Être peut être compris comme une question d'échelle spatio-temporelle (discrétisation du monde, où la discrétisation est un pliage)
@@ -27,7 +32,10 @@
 - difficulté de penser la communication si on pense l'altérité - rapport entre deux choses différentes qui ne soient pas reliées par un référent commun (une unité)
 - difficulté d'accepter le constructivisme radical
 - éviter la multiplicité basée sur la multiplicité des points de vue subjectifs - plans de réflexion
-- 
+- Le mien est un idéalisme objectif, imminent et multiple.
+La réflexion se fait dans l'être et non dans l'homme. Les idées ne sont pas dans l'esprit des hommes, ni dans un monde à part, elles sont dans les choses elles mêmes. Mais elles sont multiples.
+Donc entre le réalisme immanente d'aristocrates - les universels existent dans les choses - et l'idéalisme hégélien. Mais c'est multiple. Arrêtons de penser que la pensée se fait dans les hommes. Elles se fait dans les choses.
+il n'y a pas de division entre technique et hommes
 ## Applications
 - média et probléme essentialisme vs anti essentialisme
 
@@ -41,5 +49,3 @@
 Relations entre technique et nature, et plus en général entre médiation et immédiateté. Une série de préoccupations très actuelles y sont liées: la question du rapport entre des formes de présence connectées ou non et la question de l'authenticité qui a un aspect moral important. Évidemment cette question a une portée ontologique majeure : de Platon jusqu'à Sartre en passant par hégélien la philosophie a essayé de donner une interprétation du rapport entre médiation et essence.
 Réalisme va idéalisme à l'époque du numérique.
 La solution que je propose est la metaontologie. Valeur opérationnelle de la mo.
-
-

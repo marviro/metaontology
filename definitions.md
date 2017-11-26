@@ -1,6 +1,14 @@
 # Réflexions préliminaires pour une métaontologie
 
-La métaontologie est le plan depuis lequel il est philosophiquement possible 
+## Définitions préliminaires
+Être : ce par quoi les choses sont
+Essence : ce par quoi les choses sont ce qu'elles sont. Qu'on quid erat esse
+Étant : ce qui est
+Existence : une forme particulière d'être - être dans le monde sensible, être à l'extérieur
+En soi et pour soi: l'étant est pour soi et en soi toujours fruit d'une réflexion
+
+
+La métaontologie est le plan depuis lequel il est philosophiquement possible
 de produire un discours sur les être-multiples et donc sur les rapports entre les ontologies.
 
 Depuis un point de vue métaontologique les ontologies sont originairement et irréductiblement multiples - il n'y a pas de _pros en_ envisageable. Les ontologies sont entre elles dans un rapport asymmetrique de rupture: altérité absolue, différence absolue, transcendance absolue. Absolu, dans le sens étymologique du mot: sans lien aucun. La métaontologie traite donc des relations entre des ontologies radicalement sans relation.
